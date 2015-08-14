@@ -1,0 +1,1 @@
+ hi this is the second file made fr git to check if its woking properly.
