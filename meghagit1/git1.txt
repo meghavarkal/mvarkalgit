@@ -1,4 +1,2 @@
 hello world this is first git txt file
-this is making some changes
-
 
